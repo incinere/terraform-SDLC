@@ -1,0 +1,3 @@
+bucket ="terraform-sdlc-bucket-7303-3533-2941"
+key    ="terraform-workshop/dev/terraform.tfstate"
+region = "eu-west-1"
